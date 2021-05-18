@@ -57,7 +57,7 @@ function Login(props) {
         <div className="login-div">
 
             <Spin tip="Loading..." spinning={isLoading}>
-                <Card title="登入系统" bordered={true} style={{ width: 400 }} >
+                <Card title="稀奇古怪文章管理登入系统" bordered={true} style={{ width: 400 }} >
                     <Input
                         id="userName"
                         size="large"
